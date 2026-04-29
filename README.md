@@ -18,5 +18,7 @@
 - huiwang@hainanu.edu.cn   
 
 ## Screenshot of the program execution process
-<img width="1483" height="762" alt="fig2" src="https://github.com/user-attachments/assets/819baff3-7501-43e8-92a2-86c31f5c6b2f" />
-<img width="1127" height="1165" alt="fig3" src="https://github.com/user-attachments/assets/11cc4f3b-b5ea-48ff-ae0d-c7d6cb4f970c" />
+<img width="1483" height="762" alt="20260429-01" src="https://github.com/user-attachments/assets/55d15893-50b8-4fdf-bfaf-d8a5b218a60f" />
+<img width="1127" height="1165" alt="20260429-02" src="https://github.com/user-attachments/assets/b8c9e2c3-49f5-4d2d-9491-02b60a3b17e0" />
+
+
